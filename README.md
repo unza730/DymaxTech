@@ -18,7 +18,7 @@
 
 3. **Start the server:**
    ```bash
-  nodemon app.js
+nodemon app.js
    ```
 
 #### **Frontend Setup:**
